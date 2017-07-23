@@ -1,0 +1,23 @@
+{
+  "defaultSeverity": "error",
+  "extends": [
+    "tslint:latest"
+  ],
+  "jsRules": {
+    "no-consecutive-blank-lines": [false],
+    "no-console": [false],
+    "object-literal-sort-keys": false,
+    "ordered-imports": [false],
+    "quotemark": [true, "single"],
+    "semicolon": [true, "never"]
+  },
+  "rules": {
+    "no-consecutive-blank-lines": [false],
+    "no-console": [false],
+    "object-literal-sort-keys": false,
+    "ordered-imports": [false],
+    "quotemark": [true, "single"],
+    "semicolon": [true, "never"]
+  },
+  "rulesDirectory": []
+}

@@ -1,0 +1,32 @@
+{
+  "name": "{{ name }}",
+  "version": "0.0.0",
+  "description": "{{ description }}",
+  "author": "{{ author }}",
+  "scripts": {
+    "dev": "nuxt",
+    "generate": "nuxt generate",
+    "clean": "gulp clean",
+    "lint": "gulp lint",
+    "lint:fix": "gulp lint:fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "@types/del": "^2.2.32",
+    "@types/gulp": "^4.0.4",
+    "@types/node": "^8.0.15",
+    "del": "^3.0.0",
+    "gulp-tslint": "^8.1.1",
+    "gulp": "^3.9.1",
+    "nuxt-class-component": "^1.0.1",
+    "nuxt": "^1.0.0-alpha.5",
+    "require-dir": "^0.3.2",
+    "ts-loader": "^2.3.1",
+    "ts-node": "^3.2.1",
+    "tslint-loader": "^3.5.3",
+    "tslint": "^5.5.0",
+    "typescript": "^2.4.2"
+  },
+  "devDependencies": {}
+}
