@@ -17,16 +17,17 @@
     "@types/gulp": "^4.0.4",
     "@types/node": "^8.0.17",
     "del": "^3.0.0",
-    "gulp-tslint": "^8.1.1",
     "gulp": "^3.9.1",
-    "nuxt-class-component": "^1.0.1",
+    "gulp-tslint": "^8.1.1",
     "nuxt": "^1.0.0-rc3",
+    "nuxt-class-component": "^1.0.1",
     "require-dir": "^0.3.2",
     "ts-loader": "^2.3.2",
     "ts-node": "^3.3.0",
-    "tslint-loader": "^3.5.3",
     "tslint": "^5.5.0",
-    "typescript": "^2.4.2"
+    "tslint-loader": "^3.5.3",
+    "typescript": "^2.4.2",
+    "vue-property-decorator": "^5.2.1"
   },
   "devDependencies": {}
 }
