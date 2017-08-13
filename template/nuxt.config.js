@@ -13,7 +13,7 @@ module.exports = {
     ],
   },
   loading: {color: '#0091EA'},
-  css: ['~assets/css/main.css'],
+  css: ['~/assets/css/main.css'],
   build: {},
-  modules: ['~modules/typescript.ts'],
+  modules: ['~/modules/typescript.ts'],
 }
