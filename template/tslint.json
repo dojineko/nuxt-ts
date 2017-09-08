@@ -7,7 +7,7 @@
     "no-consecutive-blank-lines": [false],
     "no-console": [false],
     "object-literal-sort-keys": false,
-    "ordered-imports": [false],
+    "ordered-imports": false,
     "quotemark": [true, "single"],
     "semicolon": [true, "never"]
   },
@@ -15,7 +15,7 @@
     "no-consecutive-blank-lines": [false],
     "no-console": [false],
     "object-literal-sort-keys": false,
-    "ordered-imports": [false],
+    "ordered-imports": false,
     "quotemark": [true, "single"],
     "semicolon": [true, "never"]
   },
